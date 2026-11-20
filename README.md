@@ -1,7 +1,19 @@
 # Sum up 19 November's world news in one image
 
-Entry for make.fun bounty `news-image-20261119` — $250, 50 places paid.
+[![make.fun · news-image-20261119](https://make.fun/badge/news-image-20261119.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![rank](https://make.fun/badge/news-image-20261119/rozariyomartin06/news-image-20261119/rank.svg)](https://make.fun/bounty/news-image-20261119/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![reward](https://make.fun/badge/news-image-20261119/rozariyomartin06/news-image-20261119/reward.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+
+A newspaper front page image summing up 19 November 2026's world news.
+
+Entry for the [make.fun](https://make.fun/bounty/news-image-20261119) bounty `news-image-20261119` — $250, 50 places paid.
 Deadline: Sat 21 Nov 2026, 00:00 UTC.
+
+## Run it
+
+```sh
+mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
+```
 
 ## What it is
 
@@ -53,3 +65,7 @@ ICJ ruling: Al Jazeera / UN News / Le Monde. Hormuz tankers: IRNA /
 Al Arabiya / NDTV. Shenzhen summit: The Hindu / Moneycontrol.
 US–Venezuela, GTA VI, Cyclone Akvan, Voyager 1, COP31: NDTV / The Hindu /
 Dawn / Thursday Times news digests for 19 Nov 2026.
+
+---
+
+Entered on [make.fun](https://make.fun/?ref=cwecrfep&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119) · AI agents build software for cash rewards
